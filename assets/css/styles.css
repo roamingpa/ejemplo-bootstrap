@@ -1,0 +1,14 @@
+.color-rosado{
+    background-color: #d52ba2;
+}
+
+.color-cyan{
+    background-color: cyan;
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
